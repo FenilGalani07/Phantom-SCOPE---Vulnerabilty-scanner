@@ -84,17 +84,17 @@ chmod +x PhantomScope.sh
 
 We welcome contributions! To suggest improvements:-
 
-Fork the repository
+(1) Fork the repository
 
-Create a new branch: 
+(2) Create a new branch: 
 ```bash
 git checkout -b feature/new-feature
 ```
-Commit your changes: 
+(3) Commit your changes: 
 ```bash
 git commit -m "Add new feature"
 ```
-Push and submit a Pull Request
+(4) Push and submit a Pull Request
 
 
 ## 📜 License
