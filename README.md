@@ -25,18 +25,29 @@
 
 ## 🔍 Features
 
-- ✅ Interactive terminal interface with animated headers
-- ✅ Auto-installs required dependencies (e.g. `nmap`, `figlet` , `sublister3`)
-- ✅ Includes 7+ scanning techniques:
-- ✅ TCP SYN, UDP, Ping, OS & version detection
-- ✅ Aggressive scans, top/all port scans
-- ✅ Nmap NSE vulnerability scripts
-- ✅ DNS brute-force, HTTP/FTP/SMB enumeration
-- ✅ Whois lookups, WAF detection, MAC spoofing
-- ✅ Firewall evasion techniques
-- ✅ Exportable output in multiple formats
-- ✅ Safe execution prompts and cleanup logic
-- ✅ Perfect for both beginners and advanced testers
+- ✅ Advanced Port & Service Enumeration
+     - Scans open ports and running services using advanced Nmap flags.
+
+- ✅ Web Application Security Suite
+     - Performs reconnaissance and vulnerability scanning for web applications.
+
+- ✅ DNS Footprinting & Intelligence Gathering
+     - Collects DNS records, performs subdomain enumeration, and gathers domain intel.
+
+- ✅ Directory Bruteforce
+     - Discovers hidden directories and files using tools like dirb, gobuster, etc.
+
+- ✅ Web Vulnerability Analysis
+     - Uses Nmap scripting engine or integrated tools to detect OWASP Top 10 vulnerabilities.
+
+- ✅ Network Analysis
+     - Scans and maps network infrastructure, detects live hosts, performs OS detection.
+
+- ✅ Automated Reporting & Vulnerability Summary
+     - aves scan results, formats summaries, possibly generates PDF/HTML reports.
+
+- ✅ Exit Scanner PHANTOM SCOPE v3.0
+     - Cleanly exits the tool.
 
 ---
 
