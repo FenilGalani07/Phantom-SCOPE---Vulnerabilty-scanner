@@ -1,7 +1,7 @@
 # PHANTOM SCOPE – Vulnerability Scanner
 **Exploit + Precision = Complete Vulnerability Detection**
 
-**PHANTOM SCOPE** is a next-gen Nmap-based vulnerability scanner designed for cybersecurity researchers, bug bounty hunters, and penetration testers. Built entirely in Bash, it provides an intuitive terminal UI and 25+ scanning techniques—ranging from basic reconnaissance to complex firewall evasion and vulnerability exploitation.
+**PHANTOM SCOPE** is a next-gen Nmap-based vulnerability scanner designed for cybersecurity researchers, bug bounty hunters, and penetration testers. Built entirely in Bash, it provides an intuitive terminal UI and 7+ vulnerability techniques—ranging from basic reconnaissance to complex firewall evasion and vulnerability exploitation.
 
 ![PHANTOM SCOPE](https://img.shields.io/badge/Bash-Script-blue?logo=gnu-bash&style=for-the-badge)
 
