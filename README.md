@@ -74,7 +74,9 @@ chmod +x PhantomScope.sh
 ## 🧠 Author Info:-
 
 👤 Author: Galani Fenil
+
 💼 Project: PHANTOM SCOPE – Vulnerability Scanner
+
 🌐 GitHub: [FenilGalani07](https://github.com/fenilgalani07)
 
 
