@@ -86,10 +86,14 @@ We welcome contributions! To suggest improvements:-
 
 Fork the repository
 
-Create a new branch: git checkout -b feature/new-feature
-
-Commit your changes: git commit -m "Add new feature"
-
+Create a new branch: 
+```bash
+git checkout -b feature/new-feature
+```
+Commit your changes: 
+```bash
+git commit -m "Add new feature"
+```
 Push and submit a Pull Request
 
 
