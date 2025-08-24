@@ -80,4 +80,29 @@ chmod +x PhantomScope.sh
 🌐 GitHub: [FenilGalani07](https://github.com/fenilgalani07)
 
 
+## 🙌 Contributing
+
+We welcome contributions! To suggest improvements:-
+
+Fork the repository
+
+Create a new branch: git checkout -b feature/new-feature
+
+Commit your changes: git commit -m "Add new feature"
+
+Push and submit a Pull Request
+
+
+## 📜 License
+
+This project is open-source and free to use under the MIT License.
+
+
+## ⚠️ Disclaimer
+
+This tool is intended strictly for educational and authorized use only.
+Scanning or attacking systems without explicit permission is illegal and unethical.
+The author assumes no responsibility for any misuse of this tool.
+
+
 
