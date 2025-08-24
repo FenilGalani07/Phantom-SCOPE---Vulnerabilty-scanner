@@ -26,15 +26,15 @@
 ## 🔍 Features
 
 - ✅ Interactive terminal interface with animated headers
-- ✅ Auto-installs required dependencies (e.g. `nmap`, `figlet`)
-- ✅ Includes 25+ scanning techniques:
-  - TCP SYN, UDP, Ping, OS & version detection
-  - Aggressive scans, top/all port scans
-  - Nmap NSE vulnerability scripts
-  - DNS brute-force, HTTP/FTP/SMB enumeration
-  - Whois lookups, WAF detection, MAC spoofing
-  - Firewall evasion techniques
-  - Exportable output in multiple formats
+- ✅ Auto-installs required dependencies (e.g. `nmap`, `figlet` , `sublister3`)
+- ✅ Includes 7+ scanning techniques:
+- ✅ TCP SYN, UDP, Ping, OS & version detection
+- ✅ Aggressive scans, top/all port scans
+- ✅ Nmap NSE vulnerability scripts
+- ✅ DNS brute-force, HTTP/FTP/SMB enumeration
+- ✅ Whois lookups, WAF detection, MAC spoofing
+- ✅ Firewall evasion techniques
+- ✅ Exportable output in multiple formats
 - ✅ Safe execution prompts and cleanup logic
 - ✅ Perfect for both beginners and advanced testers
 
@@ -44,21 +44,31 @@
 
 - `nmap`
 - `figlet` (for banner display)
+- `sublister3`
 - Linux OS (tested on Kali Linux & Ubuntu)
 
 ---
 
 ## 🔧 Installation
 
-```bash
 # Clone this repository
+```bash
 git clone https://github.com/FenilGalani07/Phantom-SCOPE---Vulnerabilty-scanner.git
+```
 
 # Navigate into the directory
+```bash
 cd Phantom-SCOPE---Vulnerabilty-scanner
+```
 
 # Make the script executable
+```bash
 chmod +x PhantomScope.sh
+```
 
 # Run the tool
+```bash
 ./PhantomScope.sh
+```
+
+
